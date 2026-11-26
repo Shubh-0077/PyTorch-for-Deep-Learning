@@ -8,7 +8,7 @@ A concise, diagram-first revision guide: from tensors and autograd to ANN, CNN, 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Progress](https://img.shields.io/badge/Progress-0%2F14-4DD0E1?style=flat)
 
-Theory and Keras notebooks: [100 Days of Deep Learning](https://github.com/<your-username>/<100-days-repo>)
+Theory and Keras notebooks: [100 Days of Deep Learning](<https://github.com/Shubh-0077/Deep-Learning-from-Scratch>)
 
 </div>
 

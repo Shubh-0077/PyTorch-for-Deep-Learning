@@ -18,7 +18,7 @@ Theory and Keras notebooks: [100 Days of Deep Learning](<https://github.com/Shub
 
 | Section | Lectures | Status |
 | :--- | :---: | :---: |
-| Fundamentals | 1–6 | ⬜ |
+| Fundamentals | 1–6 | ✅ |
 | ANN | 7–10 | ⬜ |
 | CNN | 11–12 | ⬜ |
 | RNN & LSTM | 13–14 | ⬜ |
@@ -31,17 +31,17 @@ Theory and Keras notebooks: [100 Days of Deep Learning](<https://github.com/Shub
 
 | Topic / Concept | Status |
 | :--- | :---: |
-| **1. Introduction to PyTorch**: why PyTorch, core components | ⬜ |
+| **1. Introduction to PyTorch**: why PyTorch, core components | ✅ |
 | *Diagram: PyTorch ecosystem* | <img width="1024" height="572" alt="PyTorch ecosystem" src="https://github.com/user-attachments/assets/f4549e50-b131-4ba0-8540-dce8e387989a" /> |
-| **2. Tensors**: creation, shape and dtype, broadcasting, reshaping | ⬜ |
+| **2. Tensors**: creation, shape and dtype, broadcasting, reshaping | ✅ |
 | *Diagram: Tensor dimensions* | <img width="1024" height="572" alt="Tensor dimensions" src="https://github.com/user-attachments/assets/76dae6b9-a107-4222-af29-28938e29a0c6" /> |
-| **3. Autograd**: `requires_grad`, computational graph, `backward()` | ⬜ |
+| **3. Autograd**: `requires_grad`, computational graph, `backward()` | ✅ |
 | *Diagram: Forward and backward pass* | <img width="1024" height="572" alt="Autograd graph" src="https://github.com/user-attachments/assets/5cf791c3-74da-4714-997e-a57b7911b998" />|
-| **4. Training Pipeline**: loss, optimizer, `zero_grad()`, epochs | ⬜ |
+| **4. Training Pipeline**: loss, optimizer, `zero_grad()`, epochs | ✅ |
 | *Diagram: Training loop* | <img width="1024" height="572" alt="Training loop"  src="https://github.com/user-attachments/assets/e48bb665-b629-4ea3-9c95-99fcd98eef93" /> |
-| **5. NN Module**: `nn.Module`, `nn.Linear`, `nn.Sequential`, `state_dict` | ⬜ |
+| **5. NN Module**: `nn.Module`, `nn.Linear`, `nn.Sequential`, `state_dict` | ✅ |
 | *Diagram: nn.Module anatomy* | <img width="1024" height="572" alt="nn.Module anatomy"  src="https://github.com/user-attachments/assets/8bec9dca-534f-4d86-9c8f-68bbd223ca64" /> |
-| **6. Dataset & DataLoader**: custom Dataset, batching, transforms | ⬜ |
+| **6. Dataset & DataLoader**: custom Dataset, batching, transforms | ✅ |
 | *Diagram: Data pipeline* | <img width="1024" height="572" alt="Data pipeline"  src="https://github.com/user-attachments/assets/d0c397d4-2df1-4705-be5b-aee48d313ebb" /> |
 
 # ANN
